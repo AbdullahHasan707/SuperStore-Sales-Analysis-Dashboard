@@ -31,4 +31,4 @@ This dashboard allows stakeholders to:
   * Payment Mode & Shipping Mode**
 * Interactive visualizations with filters and drill-down capability
 
-- Dashboard <a href="https://github.com/AbdullahHasan707/Power-Bi-Projects/blob/main/Super%20Store%20Sales%20Dashboard.png">Dashboard view</a>
+- Dashboard <a href="https://github.com/AbdullahHasan707/SuperStore-Sales-Analysis-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.pbix">Dashboard view</a>
